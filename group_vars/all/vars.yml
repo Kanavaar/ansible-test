@@ -1,0 +1,8 @@
+username: tilman
+packages:
+  - neovim
+  - tmux
+  - htop
+  - speedtest-cli
+  - podman
+  - buildah

@@ -1,0 +1,5 @@
+[home]
+laptop ansible_host=192.168.178.112 ansible_user=tilman ansible_connection=ssh ansible_ssh_private_key_file=/home/tilman/.ssh/id_rsa
+
+[rpi]
+kube
